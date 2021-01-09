@@ -49,6 +49,7 @@ console.log(absence);
 const isUndefined = undefined; //output -> undefined
 const aVariable;
 
+//use console.log() for print any kind of variables and display output.
 console.log(isUndefined); //output -> undefined
 console.log(aVariable); //output -> undefined
 console.log(typeof aVariable); //output -> undefined
@@ -58,6 +59,8 @@ console.log(typeof aVariable); //output -> undefined
 6. Symbol : symbol that define variables.
 ```js
 const isSymbol = Symbol("yes");
+
+//use console.log() for print any kind of variables and display output.
 console.log(isSymbol.toString()); // output -> Symbol("yes")
 console.log(isSymbol.description); // output -> yes
 ```
@@ -69,5 +72,6 @@ let isObjects = {
     age: 17, // // by key "age" store value "17"
 };
 
+//use console.log() for print any kind of variables and display output.
 console.log(isObjects); //output -> { name: 'tustoz', age: 17 }
 ```
