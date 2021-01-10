@@ -6,7 +6,7 @@ Learn Javascript with me!
 
 ### **Javascript Data Types - (Primitive data types)**
 
-1. Number : Integer/bigint/float. ex: 0,1,2,3. ex: 92731231 float: 34.5, 23.9, 14.2
+1. Number : Integer/float. ex: 0,1,2,3. ex: 34.5, 23.9, 14.2
 ```js
 const numberInteger = 12; //output -> 12
 const numberFloat = 34.5; //output -> 34.5
