@@ -29,7 +29,7 @@ console.log(singleQuote);
 3. Boolean : True/False. ex: true/false.
 ```js
 const isTrue = true; //output -> true
-const isFalse = false; //output -> true
+const isFalse = false; //output -> false
 
 //use console.log() for print any kind of variables and display output.
 console.log(isTrue);
